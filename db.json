@@ -1,0 +1,97 @@
+{
+    
+    "Food": [
+      {
+        "_id": "63d79823ebdbc8eab4883803",
+        "categoryName": "Biryani/Rice",
+        "name": "Chicken Fried Rice",
+        "options": [
+          {
+            "regular": "120",
+            "medium": "230",
+            "large": "350"
+          }
+        ],
+        "description": "Made using Indian masalas and Basmati Rice"
+        
+      },
+      {
+        "_id": "63d798b40707149bd04d1bd3",
+        "categoryName": "Biryani/Rice",
+        "name": "Prawns Fried Rice",
+        "options": [
+          {
+            "regular": "120",
+            "medium": "230",
+            "large": "350"
+          }
+        ],
+        "description": "Made using Indian masalas and Basmati Rice"
+        
+      },
+      {
+        "_id": "63d7993abceaa13ff852ceb8",
+        "categoryName": "Pizza",
+        "name": "Mix Veg Pizza",
+        "options": [
+          {
+            "regular": "120",
+            "medium": "230",
+            "large": "350"
+          }
+        ],
+        "description": "Made using Indian masalas and Basmati Rice"
+      },
+      {
+        "_id": "63d7997e3fb1c3544d51b687",
+        "categoryName": "Cake",
+        "name": "Chocolate Cake",
+        "options": [
+          {
+            "regular": "120",
+            "medium": "230",
+            "large": "350"
+          }
+        ],
+        "description": "Made using Indian masalas and Basmati Rice"
+      },
+      {
+        "_id": "63d79a7e324c22b8d5210343",
+        "categoryName": "Starters",
+        "name": "French-Fries",
+        "options": [
+          {
+            "regular": "120",
+            "medium": "230",
+            "large": "350"
+          }
+        ],
+        "description": "Made using Indian masalas and Basmati Rice"
+      },
+      {
+        "_id": "63d79ac6c9345e5e9956a1e4",
+        "categoryName": "Cake",
+        "name": "Vanilla Cake",
+        "options": [
+          {
+            "regular": "120",
+            "medium": "230",
+            "large": "350"
+          }
+        ],
+        "description": "Made using Indian masalas and Basmati Rice"
+      },
+      {
+        "_id": "63d79b1838c5b84e14f8a86e",
+        "categoryName": "Starters",
+        "name": "Burger",
+        "options": [
+          {
+            "regular": "120",
+            "medium": "230",
+            "large": "350"
+          }
+        ],
+        "description": "Made using Indian masalas and Basmati Rice"
+      }
+    ]}
